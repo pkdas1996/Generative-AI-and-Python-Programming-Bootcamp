@@ -1,6 +1,8 @@
 # Generative-AI-and-Python-Programming-Bootcamp
 
-🚀 What You’ll Learn
+Course resources and notebooks are available here:
+
+[🔗 Google Drive Repo](https://drive.google.com/drive/folders/1QbF7PNBNd3sF6W9owGM6FUnQGknJAPwd?usp=sharing)
 
 ✅ Python Essentials
 - Master Python Fundamentals: Learn variables, data types, loops, and essential coding principles.
